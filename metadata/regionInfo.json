@@ -1,0 +1,192 @@
+﻿[
+ {
+   "RegionID": 1,
+   "RegionName": "Superior and middle occipital gyri",
+   "Lobe": "Occipital"
+ },
+ {
+   "RegionID": 2,
+   "RegionName": "Inferior ocipital gyrus and occipital pole",
+   "Lobe": "Occipital"
+ },
+ {
+   "RegionID": 3,
+   "RegionName": "Cuneus",
+   "Lobe": "Occipital"
+ },
+ {
+   "RegionID": 4,
+   "RegionName": "Calcarine cortex",
+   "Lobe": "Occipital"
+ },
+ {
+   "RegionID": 5,
+   "RegionName": "Lingual gyrus and occipital fusiform gyrus",
+   "Lobe": "Occipital"
+ },
+ {
+   "RegionID": 6,
+   "RegionName": "Postcentral gyrus (including medial segment)",
+   "Lobe": "Parietal"
+ },
+ {
+   "RegionID": 7,
+   "RegionName": "Superior parietal lobule",
+   "Lobe": "Parietal"
+ },
+ {
+   "RegionID": 8,
+   "RegionName": "Parietal operculum",
+   "Lobe": "Parietal"
+ },
+ {
+   "RegionID": 9,
+   "RegionName": "Supramarginal gyrus",
+   "Lobe": "Parietal"
+ },
+ {
+   "RegionID": 10,
+   "RegionName": "Angular gyrus",
+   "Lobe": "Parietal"
+ },
+ {
+   "RegionID": 11,
+   "RegionName": "Precuneus",
+   "Lobe": "Parietal"
+ },
+ {
+   "RegionID": 12,
+   "RegionName": "Posterior cingulate",
+   "Lobe": "Parietal"
+ },
+ {
+   "RegionID": 13,
+   "RegionName": "Anterior insula",
+   "Lobe": "Insula"
+ },
+ {
+   "RegionID": 14,
+   "RegionName": "Posterior insula",
+   "Lobe": "Insula"
+ },
+ {
+   "RegionID": 15,
+   "RegionName": "Gyrus rectus and orbital gyri",
+   "Lobe": "Frontal"
+ },
+ {
+   "RegionID": 16,
+   "RegionName": "Anterior cingulate",
+   "Lobe": "Frontal"
+ },
+ {
+   "RegionID": 17,
+   "RegionName": "Middle cingulate",
+   "Lobe": "Frontal"
+ },
+ {
+   "RegionID": 18,
+   "RegionName": "Supplementary motor cortex",
+   "Lobe": "Frontal"
+ },
+ {
+   "RegionID": 19,
+   "RegionName": "Medial frontal cortex",
+   "Lobe": "Frontal"
+ },
+ {
+   "RegionID": 20,
+   "RegionName": "Central operculum",
+   "Lobe": "Frontal"
+ },
+ {
+   "RegionID": 21,
+   "RegionName": "Frontal operculum",
+   "Lobe": "Frontal"
+ },
+ {
+   "RegionID": 22,
+   "RegionName": "Opercular part of inferior frontal gyrus",
+   "Lobe": "Frontal"
+ },
+ {
+   "RegionID": 23,
+   "RegionName": "Triangular part of inferior frontal gyrus",
+   "Lobe": "Frontal"
+ },
+ {
+   "RegionID": 24,
+   "RegionName": "Orbital part of inferior frontal gyrus",
+   "Lobe": "Frontal"
+ },
+ {
+   "RegionID": 25,
+   "RegionName": "Middle frontal gyrus",
+   "Lobe": "Frontal"
+ },
+ {
+   "RegionID": 26,
+   "RegionName": "Superior frontal gyrus and frontal pole",
+   "Lobe": "Frontal"
+ },
+ {
+   "RegionID": 27,
+   "RegionName": "Medial segment of superior frontal gyrus",
+   "Lobe": "Frontal"
+ },
+ {
+   "RegionID": 28,
+   "RegionName": "Medial segment of precentral gyrus",
+   "Lobe": "Frontal"
+ },
+ {
+   "RegionID": 29,
+   "RegionName": "Precentral gyrus",
+   "Lobe": "Frontal"
+ },
+ {
+   "RegionID": 30,
+   "RegionName": "Superior temporal gyrus",
+   "Lobe": "Temporal"
+ },
+ {
+   "RegionID": 31,
+   "RegionName": "Middle temporal gyrus",
+   "Lobe": "Temporal"
+ },
+ {
+   "RegionID": 32,
+   "RegionName": "Inferior temporal gyrus",
+   "Lobe": "Temporal"
+ },
+ {
+   "RegionID": 33,
+   "RegionName": "Temporal pole and planum polare",
+   "Lobe": "Temporal"
+ },
+ {
+   "RegionID": 34,
+   "RegionName": "Transverse temporal gyrus",
+   "Lobe": "Temporal"
+ },
+ {
+   "RegionID": 35,
+   "RegionName": "Planum temporale",
+   "Lobe": "Temporal"
+ },
+ {
+   "RegionID": 36,
+   "RegionName": "Fusiform and parahippocampal gyri",
+   "Lobe": "Temporal"
+ },
+ {
+   "RegionID": 37,
+   "RegionName": "Hippocampus",
+   "Lobe": "Temporal"
+ },
+ {
+   "RegionID": 38,
+   "RegionName": "Amygdala",
+   "Lobe": "Temporal"
+ }
+]
